@@ -1,0 +1,5 @@
+{
+    "agente": "agente-VirtualBox",
+    "ip": "192.168.0.234",
+    "group":"default"
+}
