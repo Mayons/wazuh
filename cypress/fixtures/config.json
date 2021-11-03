@@ -1,0 +1,5 @@
+{
+    "localhost": "https://127.0.0.1/app/wazuh#/overview/",
+    "user":"admin",
+    "pass":"admin"
+}
